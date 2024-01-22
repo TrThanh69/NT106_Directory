@@ -1,0 +1,90 @@
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\Database1.mdf
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\Database1_log.ldf
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\SignInLogIn.exe.config
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\SignInLogIn.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\SignInLogIn.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\TuDien.csproj.AssemblyReference.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\TuDien.DangKy.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\TuDien.Form1.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.Properties.Resources.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\TuDien.TuDien.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\TuDien.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\TuDien.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.pdb
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\bin\Debug\Database1.mdf
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\bin\Debug\Database1_log.ldf
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\bin\Debug\SignInLogIn.exe.config
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\bin\Debug\SignInLogIn.exe
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\bin\Debug\SignInLogIn.pdb
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.DangKy.resources
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.Form1.resources
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\SignInLogIn.Properties.Resources.resources
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.TuDien.resources
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\SignInLogIn.exe
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\SignInLogIn.pdb
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\SignInLogIn.Text_translator.resources
+C:\Users\acer\OneDrive\Documents\LTMang\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.CopyComplete
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\bin\Debug\Database1.mdf
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\bin\Debug\Database1_log.ldf
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\bin\Debug\SignInLogIn.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\bin\Debug\SignInLogIn.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\bin\Debug\SignInLogIn.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.DangKy.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\SignInLogIn.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\SignInLogIn.Text_translator.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.TuDien.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.csproj.CopyComplete
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\SignInLogIn.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\SignInLogIn.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\SignInLogIn\obj\Debug\TuDien.DangNhap.resources
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\Database1.mdf
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\Database1_log.ldf
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\SignInLogIn.exe.config
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\SignInLogIn.exe
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.DangKy.resources
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.DangNhap.resources
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\SignInLogIn.Properties.Resources.resources
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\SignInLogIn.Text_translator.resources
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.TuDien.resources
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.CopyComplete
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\SignInLogIn.exe
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\SignInLogIn.pdb
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\SignInLogIn.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\Database1.mdf
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\Database1_log.ldf
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\SignInLogIn.exe.config
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\SignInLogIn.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\SignInLogIn.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\Newtonsoft.Json.dll
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\bin\Debug\Newtonsoft.Json.xml
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.AssemblyReference.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.DangKy.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.DangNhap.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\SignInLogIn.Properties.Resources.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\SignInLogIn.Text_translator.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.TuDien.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.CopyComplete
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\SignInLogIn.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\SignInLogIn.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\SignInLogIn\obj\Debug\TuDien.csproj.SuggestedBindingRedirects.cache

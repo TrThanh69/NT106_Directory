@@ -1,0 +1,42 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\bin\Debug\Server.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\bin\Debug\Server.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\bin\Debug\Server.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\obj\Debug\Server.Server.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\obj\Debug\Server.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\obj\Debug\Server.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\obj\Debug\Server.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\bin\Debug\Server.exe.config
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\bin\Debug\Server.exe
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\bin\Debug\Server.pdb
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\obj\Debug\Server.Server.resources
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\obj\Debug\Server.exe
+C:\Users\acer\OneDrive\Documents\LTMANG2\SignInLogIn (2) (2)\Server\obj\Debug\Server.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\bin\Debug\Server.exe.config
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\bin\Debug\Server.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\bin\Debug\Server.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\bin\Debug\Newtonsoft.Json.dll
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\bin\Debug\Newtonsoft.Json.xml
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\obj\Debug\Server.Server.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\obj\Debug\Server.Properties.Resources.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\obj\Debug\Server.csproj.CopyComplete
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\obj\Debug\Server.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\[NT106.M21.ATCL]-Group11\SignInLogIn (2) (2)\Server\obj\Debug\Server.pdb

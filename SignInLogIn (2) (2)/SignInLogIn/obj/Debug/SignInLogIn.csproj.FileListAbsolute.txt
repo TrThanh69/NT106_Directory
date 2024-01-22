@@ -1,0 +1,15 @@
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\SignInLogIn.exe.config
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\SignInLogIn.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\SignInLogIn.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.csproj.AssemblyReference.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.csproj.SuggestedBindingRedirects.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.Form1.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.Properties.Resources.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.DangKy.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\obj\Debug\SignInLogIn.TuDien.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\Database1.mdf
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\Đồ án\SignInLogIn\SignInLogIn\bin\Debug\Database1_log.ldf
